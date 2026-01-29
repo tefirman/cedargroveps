@@ -31,7 +31,7 @@ Cedar Grove Public Schools is led by Founder and Chief Executive Officer **Jane 
 
 [Personal connection placeholder - describe what drives the leader's commitment to this work.]
 
-**Every child. College bound.**
+**Where growth has no limits.**
 
 ---
 

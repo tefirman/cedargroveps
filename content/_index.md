@@ -1,11 +1,11 @@
 ---
 title: "Welcome to Cedar Grove Public Schools"
-description: "[Tagline placeholder]. High-expectations, tuition-free public schools preparing every student for success in college and life."
+description: "Where growth has no limits. High-expectations, tuition-free public schools preparing every student for success in college and life."
 ---
 
 ## Every Child. College Bound.
 
-Cedar Grove Public Schools is a nonprofit public charter school network committed to **[tagline placeholder]**. We provide high-expectations, tuition-free, open-enrollment public schools in historically underserved communities that prepare every student for success in college and life.
+Cedar Grove Public Schools is a nonprofit public charter school network committed to student growth. We provide high-expectations, tuition-free, open-enrollment public schools in historically underserved communities that prepare every student for success in college and life.
 
 ### Our Vision
 

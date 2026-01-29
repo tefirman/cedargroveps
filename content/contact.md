@@ -32,4 +32,4 @@ Follow us on social media to stay up to date with school news and events.
 
 ---
 
-*Every child. College bound.*
+*Where growth has no limits.*

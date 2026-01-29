@@ -2,11 +2,11 @@
 enableSearch = true
 
 # Site description (for SEO)
-description = "Cedar Grove Public Schools - [Tagline placeholder]. High-expectations, tuition-free public schools preparing every student for success in college and life."
+description = "Cedar Grove Public Schools - Where growth has no limits. High-expectations, tuition-free public schools preparing every student for success in college and life."
 keywords = ["charter school", "public school", "education", "cedar grove public schools", "college prep"]
 
 # Intro section on homepage
-introDescription = "[Tagline placeholder]. Every child. College bound."
+introDescription = "Where growth has no limits."
 
 # Logo (place your logo in static/logos/)
 logo = "logos/logo.png"
